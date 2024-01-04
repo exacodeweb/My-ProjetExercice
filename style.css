@@ -11,11 +11,12 @@
 /* CSS pour le titre et la description */
 h1 {
   animation: slideIn 1s ease-out;
-  color: blue;
+  color: blue;/*couleur du h1 changer*/
+  font-weight: 500;/*poids de la police changer*/
 }
 
 p {
   animation: slideIn 1s ease-out 0.5s;
-  color: green;
-  font-size: 22px;
+  color: green;/*changer la couleur du paragraphe */
+  font-size: 22px;/*taille du texte paragraphe changer*/
 }
